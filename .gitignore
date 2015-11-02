@@ -1,0 +1,15 @@
+# system
+.DS_Sytem
+
+# IDE
+.idea/
+
+# dependencies
+node_modules/
+
+# build
+dist/
+
+
+
+
