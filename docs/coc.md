@@ -20,4 +20,4 @@ the project may take action, removing issues, comments, and PRs or
 blocking accounts as deemed appropriate.
 
 If you are subject to or witness unacceptable behavior, or have any other
-concerns, please email us at [mandorfer@mmt-b2014@fh-salzburg.ac.at](mailto:mandorfer@mmt-b2014@fh-salzburg.ac.at).
+concerns, please email us at [mandorfer.mmt-b2014@fh-salzburg.ac.at](mailto:mandorfer.mmt-b2014@fh-salzburg.ac.at).
